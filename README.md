@@ -1,7 +1,7 @@
 ###專長
-Python 
-R
-SPSS
+Python \
+R\
+SPSS\
 
 
 ###學經歷
